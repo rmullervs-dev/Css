@@ -1,0 +1,26 @@
+h1 {
+  color: aqua;
+  background-color: rgb(40, 147, 197);
+  border: 4px solid green;
+}
+li {
+  color: darkgoldenrod;
+}
+body {
+  background-color: darkslateblue;
+  background-image: url(https://images.alphacoders.com/540/540820.jpg);
+  background-size: cover;
+  border-color: yellow;
+  border-width: 3px;
+  border-style: dashed;
+}
+.moon {
+  color: azure;
+}
+.big-text {
+  font-size: 25px;
+}
+#europa-text {
+  font-size: 35px;
+  color: aquamarine;
+}

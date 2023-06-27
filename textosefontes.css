@@ -1,0 +1,13 @@
+p {
+  font-family: Oswald;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 2;
+}
+h1 {
+  font-family: "Roboto", cursive;
+  margin: 45px auto 100px auto;
+  width: 20%;
+  border: 3px solid;
+  padding: 7px;
+}
